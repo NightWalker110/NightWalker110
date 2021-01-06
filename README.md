@@ -2,8 +2,7 @@
 <html>
 <body>
 
-<video width="320" height="240" controls>
-  <source src="Drone boy.mp4" type="video/mp4">
+<img src="image_processing20200907-3719-yskxxj.gif"  width="1200" height="450">
 
 </body>
 </html>
